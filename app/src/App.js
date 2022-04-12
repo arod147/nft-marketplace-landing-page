@@ -17,8 +17,8 @@ const App = () => {
       />
       <SectionWrapper 
         title='Smart User Interface Marketplace'
-        description='Experience a buttery UI of Nef NFT 
-        Marketplace. Smooth constant colors of a fluent UI design'
+        description='Experience the buttery UI of Nef NFT 
+        Marketplace. Smooth consistent colors of a fluent UI design'
         mockupImg={assets.homeCards}
         reverse
       />
@@ -26,7 +26,7 @@ const App = () => {
       <SectionWrapper 
         title="Deployment"
         description="Nef is built using Expo which 
-        runs natively on all users devices. You can easily your your app
+        runs natively on all users devices. You can easily get your app
         into people's hands"
         mockupImg={assets.feature}
         reverse
