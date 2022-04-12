@@ -24,8 +24,8 @@ const App = () => {
       />
       <Features />
       <SectionWrapper 
-        title="Deployment
-        description='Nef is built using Expo which 
+        title="Deployment"
+        description="Nef is built using Expo which 
         runs natively on all users devices. You can easily your your app
         into people's hands"
         mockupImg={assets.feature}
